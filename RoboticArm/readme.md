@@ -10,9 +10,9 @@ Movimentação automatica com o servo SG90
 3. Automatic moviment
 4. Display LCD with status
 
-1.Armazenar movimento
-2.Movimento incremental
-3.Movimento automático
+1. Armazenar movimento
+2. Movimento incremental
+3. Movimento automático
 4. Display LCD para exibir o status
 
 ## Getting Started (Iniciando)

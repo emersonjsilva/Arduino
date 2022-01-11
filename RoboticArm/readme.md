@@ -4,7 +4,7 @@ Automatic moving for robotic arm with servo SG90 (Movimentação automatica com 
 
 ## Features (Características)
 
-See example in Youtube ![video](https://youtu.be/lg2QfcZ3vX8)
+See example in [Youtube](https://youtu.be/lg2QfcZ3vX8)
 
 1. Store moviment (Armazenar movimento)
 2. Incremental moviment [jog] (Movimento incremental [jog])

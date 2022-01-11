@@ -1,6 +1,6 @@
 # Automatic projects
 
-Repository to Arduino projects 
+Repository to Arduino projects:
 
 1. [RoboticArm](RoboticArm/) - Automatic moving for robotic arm with servo SG90 (Movimentação automatica com o servo SG90)
 

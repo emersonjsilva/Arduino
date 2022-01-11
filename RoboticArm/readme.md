@@ -5,15 +5,10 @@ Movimentação automatica com o servo SG90
 
 ## Features (Características)
 
-1. Store moviment
-2. Incremental moviment (jog)
-3. Automatic moviment
-4. Display LCD with status
-
-1. Armazenar movimento
-2. Movimento incremental
-3. Movimento automático
-4. Display LCD para exibir o status
+1. Store moviment (Armazenar movimento)
+2. Incremental moviment [jog] (Movimento incremental [jog])
+3. Automatic moviment (Movimento automático)
+4. Display LCD to show the status (Display LCD para exibir o status)
 
 ## Getting Started (Iniciando)
 
@@ -28,13 +23,9 @@ Aduino IDE
 Arduino UNO or superior
 
 ## Running the tests (Executando os testes)
-1. Mount circuit based on attached diagram
-2. Compile the file **RoboticArm.ino** in the Arduino IDE
-3. Load to Arduino board
-
-1. Monte o circuito baseado no diagrama anexo
-2. Compile o arquivo **RoboticArm.ino** no Arduino IDE
-3. Carregue para a a Placa Arduino
+1. Mount circuit based on attached diagram (Monte o circuito baseado no diagrama anexo)
+2. Compile the file **RoboticArm.ino** in the Arduino IDE (Compile o arquivo **RoboticArm.ino** no Arduino IDE)
+3. Load to Arduino board (Carregue para a a Placa Arduino)
 
 ![Wire diagram](attach/wire-diagram.png)
 Wire diagram

@@ -1,28 +1,28 @@
-# Automatic moving for robotic arm with servo SG90 (MovimentaÁ„o automatica com o servo SG90)
+# Automatic moving for robotic arm with servo SG90 (Movimenta√ß√£o automatica com o servo SG90)
 
 Automatic moving for robotic arm with servo SG90
-MovimentaÁ„o automatica com o servo SG90
+Movimenta√ß√£o automatica com o servo SG90
 
-## Features (CaracterÌsticas)
+## Features (Caracter√≠sticas)
 
 1. Store moviment
 2. Incremental moviment (jog)
 3. Automatic moviment
 4. Display LCD with status
 
-Armazenar movimento
-Movimento incremental
-Movimento autom·tico
-Display LCD para exibir o status
+1.Armazenar movimento
+2.Movimento incremental
+3.Movimento autom√°tico
+4. Display LCD para exibir o status
 
 ## Getting Started (Iniciando)
 
 These instructions will get you a copy of the project up and running the file **RoboticArm.ino** in the Arduino IDE on your local machine for development and testing purposes.
 Compile and load to Arduino board
 
-FaÁa uma cÛpia de todo o projeto e execute o arquivo **RoboticArm.ino** no Arduino IDE em sua m·quina de desenvolvimento e testes. 
+Fa√ßa uma c√≥pia de todo o projeto e execute o arquivo **RoboticArm.ino** no Arduino IDE em sua m√°quina de desenvolvimento e testes. 
 
-### Prerequisites (PrÈ-requisitos)
+### Prerequisites (Pr√©-requisitos)
 
 Aduino IDE
 Arduino UNO or superior
@@ -32,12 +32,15 @@ Arduino UNO or superior
 2. Compile the file **RoboticArm.ino** in the Arduino IDE
 3. Load to Arduino board
 
-![Wire diagram](attach/wire-diagram.png)
-![Mounting](attach/mounting.png)
-
 1. Monte o circuito baseado no diagrama anexo
 2. Compile o arquivo **RoboticArm.ino** no Arduino IDE
 3. Carregue para a a Placa Arduino
+
+![Wire diagram](attach/wire-diagram.png)
+Wire diagram
+
+![Mounting](attach/mounting.png)
+Mounting
 
 ## Authors
 
